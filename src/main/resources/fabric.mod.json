@@ -4,10 +4,11 @@
   "version": "${version}",
 
   "name": "The Banana Mod",
-  "description": "This mod adds baanas",
+  "description": "This mod adds bananas",
   "authors": [
     "Me!(Not you.)",
-    "Phizyks"
+    "Phizyks",
+    "goldenbananapeel"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -15,7 +16,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/banamod/icon.png",
 
   "environment": "*",
   "entrypoints": {

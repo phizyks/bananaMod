@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "banamod:banana"
+    }
+  ],
+  "result": {
+    "item": "banamod:banana_seed"
+  }
+}

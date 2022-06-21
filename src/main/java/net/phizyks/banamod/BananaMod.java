@@ -1,6 +1,7 @@
 package net.phizyks.banamod;
 
 import net.fabricmc.api.ModInitializer;
+import net.phizyks.banamod.Item.BananaModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,6 +11,6 @@ public class BananaMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		BananaModItems.registerModItems();
 	}
 }
